@@ -207,6 +207,8 @@ int main()
 			printf("club 2 - treasurer modified!!\n");
 		}
 		//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);
+		//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);
+			//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);
 			//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);
 				//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);	//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);
 					//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);	//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);
