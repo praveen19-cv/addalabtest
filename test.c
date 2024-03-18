@@ -209,6 +209,8 @@ int main()
 		//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);
 			//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);
 				//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);	//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);
+					//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);	//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);
+						//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);	//fprintf(fq,"%s %d %s %f %d %d %s %d",c.name,c.regno,c.gen,c.cgpa,c.noao,c.noap,c.pos,c.lvl);
 	}
 	fclose(fp);
 	fclose(fq);
